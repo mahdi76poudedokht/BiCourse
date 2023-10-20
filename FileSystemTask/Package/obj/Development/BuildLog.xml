@@ -2,13 +2,13 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>FileSystemTask</Name>
-    <LastWriteTime>2023-10-19T20:59:46.3627465Z</LastWriteTime>
+    <LastWriteTime>2023-10-20T15:04:40.4701918Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2023-10-19T20:59:46.3507786Z</LastWriteTime>
+      <Name>MoveFiles.dtsx</Name>
+      <LastWriteTime>2023-10-20T15:09:41.2953563Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
